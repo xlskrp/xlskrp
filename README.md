@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xlskrp&show_icons=true&theme=panda"/></a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api?username=xlskrp&show_icons=true&theme=buefy"/></a>&nbsp 
 </p>
 
 -----
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-D3D3D3?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
